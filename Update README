@@ -1,0 +1,29 @@
+# Movie SQL Analysis
+
+## Project Overview
+This project analyzes a movie dataset using PostgreSQL. It demonstrates SQL concepts including data retrieval, aggregation, ranking functions, Common Table Expressions (CTEs), and views.
+
+## Tools Used
+- PostgreSQL
+- SQL
+- GitHub
+
+## Features
+- Movie rating analysis
+- Revenue analysis
+- Genre performance analysis
+- Director performance analysis
+- Window functions (RANK, DENSE_RANK, ROW_NUMBER)
+- CTEs and Views
+
+## Skills Demonstrated
+- SELECT Statements
+- GROUP BY
+- ORDER BY
+- Aggregate Functions
+- Window Functions
+- CTEs
+- Database Design
+
+## Files
+- movie_database_project.sql : Complete SQL script for the project
